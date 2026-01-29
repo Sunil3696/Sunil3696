@@ -34,7 +34,7 @@ I am a technologically skilled professional based in **Barrie, Ontario**, with a
 
 ### 📊 GitHub Activity
 ![Sunil's Stats](https://github-readme-stats-mu-teal-58.vercel.app/api?username=Sunil3696&show_icons=true&count_private=true&theme=dark)
-![Sunil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sunil3696&theme=dark)
+[![Sunil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sunil3696&theme=dark)](https://git.io/streak-stats)
 
 ---
 
